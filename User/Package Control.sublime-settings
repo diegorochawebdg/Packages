@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"Comment-Snippets",
+		"CSS3",
+		"Emmet",
+		"GitGutter",
+		"Grunt",
+		"HTMLBeautify",
+		"jQuery",
+		"LiveStyle",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SASS Build",
+		"SublimeCodeIntel",
+		"SublimeOnSaveBuild"
+	]
+}
